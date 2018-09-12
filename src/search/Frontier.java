@@ -10,5 +10,6 @@ public interface Frontier {
 
     Node removeNode() throws Exception;
 
+    int getMaxNumberOfNodes();
 
 }
